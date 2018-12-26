@@ -3,6 +3,8 @@ image_scoring
 
 
 Under each Scoring folder, the structure looks like:
+
+
 GRMHD classification:
 - [IHARM]
 - BHAC
