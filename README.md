@@ -2,8 +2,8 @@
 
 Scoring Restults:
 - run1: fit 3958 hi, non scan-avg data, without theory error
-- run2: scan-avg data, without theroy error (in progress)
-- run3: scan-avg data, with theroy error    (in progress)
+- run2: fit scan-avg data, without theroy error (in progress)
+- run3: fit scan-avg data, with theroy error    (in progress)
 
 
 
