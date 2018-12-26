@@ -1,9 +1,14 @@
 # image_scoring
 image_scoring
 
+Scoring Restults:
+- run1: fit 3958 hi, non scan-avg data, without theory error
+- run2: ongoing
+- run3: ongoing
+
+
 
 Under each Scoring folder, the structure looks like:
-
 
 GRMHD classification:
 - IHARM
