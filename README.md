@@ -1,4 +1,5 @@
 # image_scoring
+(* note that the position angle reported in the fit_summaries.txt is "west of south", and depends on the prerotaion of the image and inclination angle)
 
 Scoring Restults:
 - Score_run1: fit 3958 hi, non scan-avg data, without theory error
@@ -21,4 +22,4 @@ flow-type classification:
 electron-thermodyanmics classification:
 - m_1_1_x (x= Rhigh = 1, 10, 20, 40, 80, 160)
 
-* note that the position angle reported in the fit_summaries.txt is "west of south", and depends on the prerotaion of the image and inclination angle
+
