@@ -1,5 +1,5 @@
 # image_scoring
-(* note that the position angle reported in the fit_summaries.txt is "west of south", and depends on the prerotaion of the image and inclination angle)
+(* note that the position angle reported in the fit_summaries.txt is "west of south", and depends on the pre-rotaion of the image and inclination angle)
 
 Scoring Restults:
 - Score_run1: fit 3958 hi, non scan-avg data, without theory error
