@@ -14,6 +14,7 @@ GRMHD classification:
 - BHAC
 - KORAL
 - HARM
+- time-averaged (provided by Monika)
 
 flow-type classification:
 - SANE
