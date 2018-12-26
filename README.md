@@ -6,7 +6,7 @@ Under each Scoring folder, the structure looks like:
 
 
 GRMHD classification:
-- [IHARM]
+- IHARM
 - BHAC
 - KORAL
 - HARM
