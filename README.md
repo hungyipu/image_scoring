@@ -1,4 +1,4 @@
-# Image_Scoring_Restuls
+# Image Scoring Results
 (* note that the position angle reported in the fit_summaries.txt is "west of south", and depends on the pre-rotaion of the image and inclination angle)
 
 Scoring Restults:
