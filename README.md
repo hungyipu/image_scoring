@@ -4,7 +4,7 @@
 Scoring Restults:
 - Score_run1: fit 3958 hi, non scan-avg data, without theory error
 - Score_run2: fit scan-avg data, without theroy error (in progress)
-- Score_run3: fit scan-avg data, with theroy error    (cancel?)
+- Score_run3: fit scan-avg data, with theroy error    (cancelled)
 
 Under each Scoring folder, the structure looks like:
 
