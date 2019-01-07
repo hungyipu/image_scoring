@@ -3,8 +3,8 @@
 
 Scoring Restults:
 - Score_run1: fit 3958 hi, non scan-avg data, without theory error
-- Score_run2: fit scan-avg data, without theroy error (in progress)
-- Score_run3: fit scan-avg data, with theory error    (cancelled; the effect of theory error is studied in the pipeline challenge)
+- Score_run2: fit scan-avg data
+- Score_run3: fit scan-avg data, with priors (in progress)
 
 Under each Scoring folder, the structure looks like:
 
