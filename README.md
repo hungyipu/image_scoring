@@ -4,7 +4,8 @@
 Scoring Restults:
 - Score_run1: fit 3958 hi, non scan-avg data, without theory error
 - Score_run2: fit scan-avg data
-- Score_run3: fit scan-avg data, with priors (in progress)
+- Score_run3: fit scan-avg data, with both M/D and PA priors
+- Score_run4: fit scan-avg data, with M/D priors (in progress)
 
 Under each Scoring folder, the structure looks like:
 
