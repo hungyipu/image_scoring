@@ -9,6 +9,10 @@ Scoring Restults:
 - Score_run5: fit 3958 hi scan-avg data, with M/D (linear) prior only
 - Score_run6: fit 3958 hi scan-avg data, with PA (linear) prior only
 
+(list of simulations for each scoring is provided in the teamwork notebook)
+
+
+
 Under each Scoring folder, the structure looks like:
 
 GRMHD classification:
