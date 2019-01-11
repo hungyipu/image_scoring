@@ -8,9 +8,9 @@ Scoring Restults:
 - Score_run4: fit 3958 hi scan-avg data, with both M/D (linear) prior and PA (linear) prior
 - Score_run5: fit 3958 hi scan-avg data, with M/D (linear) prior only
 - Score_run6: fit 3958 hi scan-avg data, with PA (linear) prior only [in progress]
-- Score_run_3597_hi: fit 3601 hi scan-avg data [in progress]
-- Score_run_3598_hi: = Score_run2
-- Score_run_3600_hi: fit 3601 hi scan-avg data [in progress]
+- Score_run_3597_hi: fit 3597 hi scan-avg data [in progress]
+- Score_run_3598_hi: fit 3958 hi scan-avg data (= Score_run2)
+- Score_run_3600_hi: fit 3600 hi scan-avg data [in progress]
 - Score_run_3601_hi: fit 3601 hi scan-avg data [in progress]
 
 (list of simulations for each scoring is provided in the teamwork notebook)
