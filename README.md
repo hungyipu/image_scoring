@@ -6,6 +6,7 @@ Scoring Restults:
 - Score_run2: fit 3958 hi scan-avg data
 - Score_run3: fit 3958 hi scan-avg data, with both M/D (Gaussian) prior and PA (linear) prior
 - Score_run4: fit 3958 hi scan-avg data, with both M/D (linear) prior and PA (linear) prior
+- Score_run4a: fit 3958 hi scan-avg data, with both M/D (linear) prior and PA (linear) prior, reflected image (in x-direction)
 - Score_run5: fit 3958 hi scan-avg data, with M/D (linear) prior only
 - Score_run6: fit 3958 hi scan-avg data, with PA (linear) prior only
 
