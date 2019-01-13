@@ -12,6 +12,10 @@ Scoring Restults:
 - Score_run_3598_hi: fit 3958 hi scan-avg data (= Score_run2)
 - Score_run_3600_hi: fit 3600 hi scan-avg data [in progress]
 - Score_run_3601_hi: fit 3601 hi scan-avg data [in progress]
+- Score_run_3597_lo: fit 3597 lo scan-avg data [in progress]
+- Score_run_3598_lo: fit 3958 lo scan-avg data [in progress]
+- Score_run_3600_lo: fit 3600 lo scan-avg data [in progress]
+- Score_run_3601_lo: fit 3601 lo scan-avg data [in progress]
 
 (list of simulations for each scoring is provided in the teamwork notebook)
 
