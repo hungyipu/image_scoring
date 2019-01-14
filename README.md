@@ -1,7 +1,7 @@
 # Image Scoring Results
 * note that the position angle reported in the fit_summaries.txt is "west of south", and depends on the pre-rotaion of the image and inclination angle. 
--For a non-pre-rotation image with inclination angle i = 163 deg (and same for any cases with 90 < i < 180 ), the position angle (PA; East of North) of the forwrd projected jet has the relation "PA = 180 deg + reported angle"
--For a non-pre-rotation image with inclination angle i = 17 deg (and same for any cases with 0 < i < 90), the position angle (PA; East of North) of the forwrd projected jet has the relation "PA = reported angle"
+- For a non-pre-rotation image with inclination angle i = 163 deg (and same for any cases with 90 < i < 180 ), the position angle (PA; East of North) of the forwrd projected jet has the relation "PA = 180 deg + reported angle"
+- For a non-pre-rotation image with inclination angle i = 17 deg (and same for any cases with 0 < i < 90), the position angle (PA; East of North) of the forwrd projected jet has the relation "PA = reported angle"
 
 Scoring Restults:
 - Score_run1: fit 3958 hi non-scan-avg data
