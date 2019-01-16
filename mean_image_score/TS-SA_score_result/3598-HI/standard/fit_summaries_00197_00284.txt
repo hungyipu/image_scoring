@@ -1,0 +1,2 @@
+   # Index         I (Jy)      M/D (uas)       PA (deg)  VA red. chisq  CP red. chisq     red. chisq     log-liklhd     FileName     VA Data file     CP Data file
+       197       0.852998         4.6566        -172.23        22.5194        8.40992        14.3957       -2290.19     /gpfs/abroderick/EHT2/IHARM/SANE/SANE_a+0.94_288x128x128_IHARM/m_1_1_80/simulation_average.dat     /home/abroderick/Themis/Themis/eht_data/ER5/Mexico/Processed_1/hi/VM_hops_3598_M87+netcal.d     /home/abroderick/Themis/Themis/eht_data/ER5/Mexico/Processed_1/hi/CP_hops_3598_M87+netcal.d
