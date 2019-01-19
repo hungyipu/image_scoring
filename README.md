@@ -31,7 +31,7 @@ GRMHD classification:
 - IHARM
 - BHAC
 - KORAL
-- HARM (Provided by Koushik, scored in Score_run1)
+- HAMR
 - time-averaged (provided by Monika, scored in Score_run1)
 
 flow-type classification:
