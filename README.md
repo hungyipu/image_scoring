@@ -20,6 +20,7 @@ Scoring Restults:
 - Score_run_3598_lo: fit 3958 lo scan-avg data
 - Score_run_3600_lo: fit 3600 lo scan-avg data
 - Score_run_3601_lo: fit 3601 lo scan-avg data
+- mean_image_score
 
 (list of simulations for each scoring is provided in the teamwork notebook)
 
