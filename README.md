@@ -7,13 +7,13 @@
 
 Scoring Restults: 
 - Score_run1: fit 3598 hi non-scan-avg data
-- Score_run2 (=Score_run_3598_hi): fit 3598 hi scan-avg data
+- Score_run2: fit 3598 hi scan-avg data
 - Score_run3: fit 3598 hi scan-avg data, with both M/D (Gaussian) prior and PA (linear) prior
 - Score_run4: fit 3598 hi scan-avg data, with both M/D (linear) prior and PA (linear) prior
 - Score_run5: fit 3598 hi scan-avg data, with M/D (linear) prior only
 - Score_run6: fit 3598 hi scan-avg data, with PA (linear) prior only
 - Score_run_3597_hi: fit 3597 hi scan-avg data
-- Score_run_3598_hi_Supp: fit 3958 hi scan-avg data (supplementray scorings which are not included in Score_run2)
+- Score_run_3598_hi: fit 3958 hi scan-avg data (partially overlap with Score_run2, but more)
 - Score_run_3600_hi: fit 3600 hi scan-avg data
 - Score_run_3601_hi: fit 3601 hi scan-avg data
 - Score_run_3597_lo: fit 3597 lo scan-avg data
