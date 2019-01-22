@@ -14,6 +14,7 @@ Scoring Restults:
 - Score_run6: fit 3598 hi scan-avg data, with PA (linear) prior only
 - Score_run_3597_hi: fit 3597 hi scan-avg data
 - Score_run_3598_hi: fit 3958 hi scan-avg data (= Score_run2)
+- Score_run_3598_hi: fit 3958 hi scan-avg data (= Score_run2)
 - Score_run_3600_hi: fit 3600 hi scan-avg data
 - Score_run_3601_hi: fit 3601 hi scan-avg data
 - Score_run_3597_lo: fit 3597 lo scan-avg data
