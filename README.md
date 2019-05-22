@@ -1,3 +1,5 @@
+#UPDATE!! The scoring result are removed for now. Please contact Hung-Yi if you need the scoring results!
+
 # Image Scoring Results
 * note that the position angle reported in the fit_summaries.txt is "west of south", and depends on the pre-rotaion of the image and inclination angle. 
 - For a non-pre-rotation image with inclination angle i = 163 deg (and same for any cases with 90 < i < 180 ), the position angle (PA; East of North) of the forword projected jet, which is pointing down, has the relation "PA = 360 deg - reported angle"
