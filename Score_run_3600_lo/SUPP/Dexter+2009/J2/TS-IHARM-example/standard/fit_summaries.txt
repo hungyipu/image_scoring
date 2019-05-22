@@ -1,2 +1,0 @@
-   # Index         I (Jy)      M/D (uas)       PA (deg)  VA red. chisq  CP red. chisq     red. chisq     log-liklhd     FileName
-         0       0.588431        3.47871        83.0088        12.7466        15.9318        13.9894       -704.044     /gpfs/hpu/EHT2/supplementary/Dexter+2009/IHARM-J2/IHARM-example/IHARMformat_D12_J2_xeb2.dat

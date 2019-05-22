@@ -1,2 +1,0 @@
-   # Index         I (Jy)      M/D (uas)       PA (deg)  VA red. chisq  CP red. chisq     red. chisq     log-liklhd     FileName
-         0       0.291455        2.73521       -239.114        9.41033         27.768        18.9165       -904.024     /gpfs/hpu/EHT2/supplementary/Kawashima/a+0.9/M9e9/kawashima.dat
